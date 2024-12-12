@@ -1,16 +1,9 @@
 **@PGMP1992 - Pedro Martinez**
 
 👀 I’m interested in:
-- .NET MVC, C#
+- .NET , Blazor, MVC, C#
 - Databases : SQL Server, Oracle, MySql 
   
-🌱 I’m currently learning:
-- React, Semantic-UI
-- Python
-- Flask
-- Machine Learning
-- Azure AI Services
-
 💞️ I’m looking to collaborate on ...
 
 📫 How to reach me:
